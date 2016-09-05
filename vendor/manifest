@@ -1,0 +1,29 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "bitbucket.org/chrj/smtpd",
+			"repository": "https://bitbucket.org/chrj/smtpd",
+			"vcs": "hg",
+			"revision": "9336127e393c",
+			"branch": "default",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/eaigner/dkim",
+			"repository": "https://github.com/eaigner/dkim",
+			"vcs": "git",
+			"revision": "6fe4a7ee9cfbd7eabb09b88c9fa4a9885dd3a628",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/minio/sha256-simd",
+			"repository": "https://github.com/minio/sha256-simd",
+			"vcs": "git",
+			"revision": "6f50cd1d784b2bea46167b6929f16c0d12eefbfb",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
